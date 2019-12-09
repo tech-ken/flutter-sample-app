@@ -1,6 +1,6 @@
 # startup_name
 
-A new Flutter application.
+libの中にmain.dartがある
 
 ## Getting Started
 
